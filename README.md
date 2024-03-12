@@ -18,12 +18,15 @@ This is a tiny (~1.19kB brotli'd) library that mostly mirrors the IndexedDB API,
 1. [Examples](#examples)
 1. [TypeScript](#typescript)
 
+## fork
+This is a fork of [jakearchibald/idb](https://github.com/jakearchibald/idb).
+
 # Installation
 
 ## Using npm
 
 ```sh
-npm install idb
+npm i -S @bicycle-codes/idb
 ```
 
 Then, assuming you're using a module-compatible system (like webpack, Rollup etc):

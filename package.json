@@ -1,5 +1,5 @@
 {
-  "name": "idb",
+  "name": "@bicycle-codes/idb",
   "version": "8.0.0",
   "description": "A small wrapper that makes IndexedDB usable",
   "main": "./build/index.cjs",
